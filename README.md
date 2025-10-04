@@ -3,7 +3,6 @@
 ## Integrantes
 - Julio Mazo
 - Sebastian Castro Obando
-- Maria Camila Guzma Bolaños
 - Samuel Escobar
 - Jhon Silva
 
